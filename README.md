@@ -9,10 +9,10 @@
 
 ### 👨‍💻 Sobre mí  
 - 💻 Tengo **20 años de experiencia** en desarrollo de software.  
-- 🎯 Me especializo en **Node.js, React, MySQL, APIs y Bots de mensajería**.  
+<!-- 🎯 Me especializo en **Node.js, React, MySQL, APIs y Bots de mensajería**. -->
 - 🚀 Actualmente trabajo en **Newton College** como Desarrollador de TI.  
 - 🌱 Siempre aprendiendo nuevas tecnologías y frameworks.  
-- 📫 Puedes contactarme en **[correo@ejemplo.com](mailto:correo@ejemplo.com)**  
+- 📫 Puedes contactarme en **[alexiiispc@gmail.com](mailto:alexiiispc@gmail.com)**  
 
 ---
 
@@ -30,15 +30,15 @@
 
 ### 📱 Redes Sociales  
 <p align="left">
-  <a href="https://www.instagram.com/tuusuario" target="_blank">
+  <a href="https://www.instagram.com/alexiiispc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/cristhian-palacios-8254a7228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
+ <!-- <a href="https://twitter.com/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  </a>-->
 </p>
 
 ---
