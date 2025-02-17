@@ -1,54 +1,69 @@
-<h1 align="center">Hola 👋, soy Cristhian Palacios</h1>
-<h3 align="center">Desarrollador de software apasionado por la tecnología y la innovación</h3>
+<h3 align="left">Hola 👋, soy Cristhian Palacios, <br>Desarrollador de software apasionado por la tecnología y la innovación</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexiiispc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexiiispc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 👨‍💻 Sobre mí  
-- 💻 Tengo **20 años de experiencia** en desarrollo de software.  <!-- 🎯 Me especializo en **Node.js, React, MySQL, APIs y Bots de mensajería**. -->
-- 🚀 Actualmente trabajo en **Newton College** como Desarrollador de TI.  
-- 🌱 Siempre aprendiendo nuevas tecnologías y frameworks.  
-- 📫 Puedes contactarme en **[alexiiispc@gmail.com](mailto:alexiiispc@gmail.com)**  
+###
 
----
+<h4 align="left">🛠️ Tecnologías y Herramientas</h4>
 
-### 🛠️ Tecnologías y Herramientas  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/aspclassic-original.svg" alt="Docker" width="40" height="40"/>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+</div>
 
-### 📱 Redes Sociales  
-<p align="left">
-  <a href="https://www.instagram.com/alexiiispc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+###
+
+<h4 align="left">📱 Redes Sociales</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/alexiiispc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/cristhian-palacios-8254a7228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:alexiiispc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
- <!-- <a href="https://twitter.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>-->
-</p>
+  <a href="https://paypal.me/Palacios334?country.x=PE&locale.x=es_XC" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=51904453471&text=Hi%21&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
----
+###
 
-### 📊 Estadísticas  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexiiispc&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexiiispc&theme=dark" width="400"/>
-</p>
+<img align="right" height="150" src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"  />
 
----
+###
 
-⭐ **¡Gracias por visitar mi perfil!** 🚀
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/alexiiispc/alexiiispc/output/snake.svg" alt="Snake animation" />
+
+###
