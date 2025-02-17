@@ -8,8 +8,7 @@
 ---
 
 ### 👨‍💻 Sobre mí  
-- 💻 Tengo **20 años de experiencia** en desarrollo de software.  
-<!-- 🎯 Me especializo en **Node.js, React, MySQL, APIs y Bots de mensajería**. -->
+- 💻 Tengo **20 años de experiencia** en desarrollo de software.  <!-- 🎯 Me especializo en **Node.js, React, MySQL, APIs y Bots de mensajería**. -->
 - 🚀 Actualmente trabajo en **Newton College** como Desarrollador de TI.  
 - 🌱 Siempre aprendiendo nuevas tecnologías y frameworks.  
 - 📫 Puedes contactarme en **[alexiiispc@gmail.com](mailto:alexiiispc@gmail.com)**  
